@@ -3,7 +3,7 @@ import Banner from "../components/Banner/Banner"
 import ContactForms from "../components/ContactForms/ContactForms"
 import Footer from "../components/Footer/Footer"
 
-import { AppContext } from '../Contexts/AppContext'
+import { AppContext } from '../contexts/AppContext'
 import { useContext } from 'react'
 
 

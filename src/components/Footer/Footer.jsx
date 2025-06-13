@@ -14,7 +14,7 @@ import TwtIcon from '../../assets/tt-icon.svg'
 import './Footer.css'
 
 
-import { AppContext } from '../../Contexts/AppContext'
+import { AppContext } from '../../contexts/AppContext'
 
 
 function Footer(){

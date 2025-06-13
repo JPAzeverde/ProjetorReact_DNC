@@ -7,7 +7,7 @@ import "./ProjectList.css"
 /*  Componente compartilhado    */
 import LikeFill from '../../assets/likeFill.svg'
 import Like from '../../assets/like.svg'
-import { AppContext } from '../../Contexts/AppContext'
+import { AppContext } from '../../contexts/AppContext'
 import {getApiData} from '../../services/apiServices'
 import Button from "../Button/Button"
 

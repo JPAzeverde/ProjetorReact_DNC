@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 // Componentes internos
 import Button from '../Button/Button'
 import Logo from '../../assets/logo.svg'
-import { AppContext } from '../../Contexts/AppContext'
+import { AppContext } from '../../contexts/AppContext'
 
 // Estilos CSS
 import './Header.css'

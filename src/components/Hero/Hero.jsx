@@ -4,7 +4,7 @@ import { useContext } from "react"
  
 /*  Componente compartilhado    */
 import Button from "../Button/Button"
-import { AppContext } from '../../Contexts/AppContext'
+import { AppContext } from '../../contexts/AppContext'
 
 /*  css  */ 
 import "./Hero.css"
